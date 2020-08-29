@@ -1,0 +1,9 @@
+[package]
+name = "twtr"
+version = "0.1.0"
+authors = ["ShabbirHasan1 <shabbir.hasan@outlook.in>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
