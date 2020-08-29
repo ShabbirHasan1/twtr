@@ -1,0 +1,11 @@
+/home/n0ak95/Documents/coding/twtr/target/rls/debug/deps/unicode_segmentation-141d4483db58356d.rmeta: /home/n0ak95/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.6.0/src/lib.rs /home/n0ak95/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.6.0/src/grapheme.rs /home/n0ak95/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.6.0/src/tables.rs /home/n0ak95/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.6.0/src/word.rs /home/n0ak95/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.6.0/src/sentence.rs
+
+/home/n0ak95/Documents/coding/twtr/target/rls/debug/deps/libunicode_segmentation-141d4483db58356d.rlib: /home/n0ak95/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.6.0/src/lib.rs /home/n0ak95/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.6.0/src/grapheme.rs /home/n0ak95/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.6.0/src/tables.rs /home/n0ak95/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.6.0/src/word.rs /home/n0ak95/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.6.0/src/sentence.rs
+
+/home/n0ak95/Documents/coding/twtr/target/rls/debug/deps/unicode_segmentation-141d4483db58356d.d: /home/n0ak95/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.6.0/src/lib.rs /home/n0ak95/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.6.0/src/grapheme.rs /home/n0ak95/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.6.0/src/tables.rs /home/n0ak95/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.6.0/src/word.rs /home/n0ak95/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.6.0/src/sentence.rs
+
+/home/n0ak95/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.6.0/src/lib.rs:
+/home/n0ak95/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.6.0/src/grapheme.rs:
+/home/n0ak95/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.6.0/src/tables.rs:
+/home/n0ak95/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.6.0/src/word.rs:
+/home/n0ak95/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.6.0/src/sentence.rs:

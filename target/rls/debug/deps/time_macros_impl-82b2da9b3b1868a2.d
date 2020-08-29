@@ -1,0 +1,11 @@
+/home/n0ak95/Documents/coding/twtr/target/rls/debug/deps/libtime_macros_impl-82b2da9b3b1868a2.so: /home/n0ak95/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.1/src/lib.rs /home/n0ak95/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.1/src/date.rs /home/n0ak95/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.1/src/ext.rs /home/n0ak95/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.1/src/offset.rs /home/n0ak95/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.1/src/time.rs /home/n0ak95/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.1/src/time_crate/mod.rs /home/n0ak95/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.1/src/time_crate/date.rs
+
+/home/n0ak95/Documents/coding/twtr/target/rls/debug/deps/time_macros_impl-82b2da9b3b1868a2.d: /home/n0ak95/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.1/src/lib.rs /home/n0ak95/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.1/src/date.rs /home/n0ak95/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.1/src/ext.rs /home/n0ak95/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.1/src/offset.rs /home/n0ak95/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.1/src/time.rs /home/n0ak95/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.1/src/time_crate/mod.rs /home/n0ak95/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.1/src/time_crate/date.rs
+
+/home/n0ak95/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.1/src/lib.rs:
+/home/n0ak95/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.1/src/date.rs:
+/home/n0ak95/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.1/src/ext.rs:
+/home/n0ak95/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.1/src/offset.rs:
+/home/n0ak95/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.1/src/time.rs:
+/home/n0ak95/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.1/src/time_crate/mod.rs:
+/home/n0ak95/.cargo/registry/src/github.com-1ecc6299db9ec823/time-macros-impl-0.1.1/src/time_crate/date.rs:

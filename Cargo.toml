@@ -2,9 +2,15 @@
 name = "twtr"
 version = "0.1.0"
 authors = ["ShabbirHasan1 <shabbir.hasan@outlook.in>"]
-edition = "2018"
+edition = "2020"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+actix-rt = "1.1.1
 actix-web = { git = "https://github.com/actix/actix-web" }
+serde = "1.0.115"
+serde_json = "1.0.57"
+chrono = { version = "0.4.15", features = ["serde"] }
+uuid = { version = "0.8.1", features = ["serde", "v4"] }
+env_logger = "0.7.1"

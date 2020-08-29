@@ -1,0 +1,13 @@
+/home/n0ak95/Documents/coding/twtr/target/rls/debug/deps/indexmap-26eead94ac87f258.rmeta: /home/n0ak95/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.5.1/src/lib.rs /home/n0ak95/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.5.1/src/macros.rs /home/n0ak95/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.5.1/src/equivalent.rs /home/n0ak95/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.5.1/src/mutable_keys.rs /home/n0ak95/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.5.1/src/util.rs /home/n0ak95/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.5.1/src/map.rs /home/n0ak95/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.5.1/src/map/core.rs /home/n0ak95/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.5.1/src/map/core/raw.rs /home/n0ak95/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.5.1/src/set.rs
+
+/home/n0ak95/Documents/coding/twtr/target/rls/debug/deps/indexmap-26eead94ac87f258.d: /home/n0ak95/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.5.1/src/lib.rs /home/n0ak95/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.5.1/src/macros.rs /home/n0ak95/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.5.1/src/equivalent.rs /home/n0ak95/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.5.1/src/mutable_keys.rs /home/n0ak95/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.5.1/src/util.rs /home/n0ak95/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.5.1/src/map.rs /home/n0ak95/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.5.1/src/map/core.rs /home/n0ak95/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.5.1/src/map/core/raw.rs /home/n0ak95/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.5.1/src/set.rs
+
+/home/n0ak95/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.5.1/src/lib.rs:
+/home/n0ak95/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.5.1/src/macros.rs:
+/home/n0ak95/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.5.1/src/equivalent.rs:
+/home/n0ak95/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.5.1/src/mutable_keys.rs:
+/home/n0ak95/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.5.1/src/util.rs:
+/home/n0ak95/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.5.1/src/map.rs:
+/home/n0ak95/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.5.1/src/map/core.rs:
+/home/n0ak95/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.5.1/src/map/core/raw.rs:
+/home/n0ak95/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.5.1/src/set.rs:
